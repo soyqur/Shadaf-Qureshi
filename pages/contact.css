@@ -179,6 +179,10 @@ main h2  {
     border-radius: 0.5em;
 }
 
+.contactinput:hover, main textarea:hover {
+    background-color: seashell;
+}
+
 main textarea {
     /* background-color: black; */
     background-color: #C8ACD6;

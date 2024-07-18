@@ -200,6 +200,13 @@ main p {
     grid-column: 1/2;
 }
 
+.graduation {
+    display: flex;
+   justify-content: center;
+   align-items: center;
+}
+
+
 
 
 
